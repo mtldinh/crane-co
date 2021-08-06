@@ -8,7 +8,7 @@ body {
 .btn-regular {
   background: #ab2418;
   color: #fff;
-  border: 3px solid #eee;
+  border: 1px solid #090908;
 }
 
 /* SOCIAL MEDIA BUTTON COLORS */
@@ -18,7 +18,7 @@ body {
     background: -webkit-linear-gradient(to right, #fc6767, #ec008c);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #fc6767, #ec008c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #fff;
-    border: 3px solid #eee;
+    border: 1px solid #090908;
 }
 
 .btn-green-moon {
@@ -26,7 +26,7 @@ body {
     background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #fff;
-    border: 3px solid #eee;
+    border: 1px solid #090908;
 }
 
 .btn-dark-blue {
@@ -34,5 +34,5 @@ body {
     background: -webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #348AC7, #7474BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #fff;
-    border: 3px solid #eee;
+    border: 1px solid #090908;
 }
