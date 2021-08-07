@@ -52,14 +52,12 @@
             <a class="nav-link" href="index.html">Home</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="about.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               About
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
+              <a class="dropdown-item" href="mission.html">Mission</a>
+              <a class="dropdown-item" href="coordinators.html">Meet the Coordinators</a>
             </div>
           <li class="nav-item">
             <a class="nav-link" href="#">Contact</a>
@@ -128,10 +126,14 @@
   <footer>
     <p class="text-center">© CRANE Collective at NC State 2021</p>
   </footer>
-  <script src="./js/jquery-1.9.1.js"></script>
-  <script src="./js/bootstrap.js"></script>
-  <script src="./js/bootstrap-dropdown.js"></script>
 
+  <script src="content/js/jquery.min.js"></script>
+  <script src="content/js/bootstrap.min.js"></script>
+  <script>
+      $(document).ready(function () {
+          $('.dropdown-toggle').dropdown();
+      });
+  </script>
 
 
 </body>
