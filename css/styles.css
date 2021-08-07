@@ -41,6 +41,12 @@ body {
   background-color: #090908
 }
 
+
+
+.dropdown-backdrop {
+    position: static;
+}
+
 /* DROPDOWN
 .dropdown:hover .dropdown-menu{
     display: block;
