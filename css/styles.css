@@ -43,4 +43,10 @@ body {
   background-color: #090908
 }
 
-/* SOCIAL MEDIA ICONS */
+/* DROPDOWN */
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-menu{
+    margin-top: 0;
+}
