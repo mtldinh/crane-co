@@ -3,7 +3,6 @@ body {
   background: #F5F5F5;
 }
 
-
 /* REGULAR BUTTON COLORS */
 .btn-regular {
   background: #ab2418;
@@ -16,8 +15,8 @@ body {
 
 /* SOCIAL MEDIA BUTTON COLORS */
 .btn-pink-moon {
-    background: #ec008c;
-    color: #fff;
+  background: #ec008c;
+  color: #fff;
 }
 
 .btn-pink-moon:hover {
@@ -25,9 +24,8 @@ body {
 }
 
 .btn-green-moon {
-    background: #29BF7B;
-    color: #fff;
-
+  background: #29BF7B;
+  color: #fff;
 }
 
 .btn-green-moon:hover {
@@ -35,8 +33,8 @@ body {
 }
 
 .btn-dark-blue {
-    background: #4268B2;
-    color: #fff;
+  background: #4268B2;
+  color: #fff;
 }
 
 .btn-dark-blue:hover {
@@ -51,8 +49,26 @@ body {
     margin-top: 0;
 }
 */
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;
+  /* Footer height */
+}
+
+#footer {
+  clear: both;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  text-align:center;
+  /* Footer height */
+}
 
 /* CONTACT FORM */
 .boxed {
-  border: 2px #ab2418 ;
+  border: 2px #ab2418;
 }
