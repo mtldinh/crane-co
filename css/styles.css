@@ -8,31 +8,39 @@ body {
 .btn-regular {
   background: #ab2418;
   color: #fff;
-  border: 1px solid #090908;
+}
+
+.btn-regular:hover {
+  background-color: #090908
 }
 
 /* SOCIAL MEDIA BUTTON COLORS */
-/* Courtesy of akshayannadate on https://bootsnipp.com/snippets/Gl29g */
 .btn-pink-moon {
-    background: #ec008c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #fc6767, #ec008c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fc6767, #ec008c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ec008c;
     color: #fff;
-    border: 1px solid #090908;
+}
+
+.btn-pink-moon:hover {
+  background-color: #090908
 }
 
 .btn-green-moon {
-    background: #56ab2f;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #29BF7B;
     color: #fff;
-    border: 1px solid #090908;
+
+}
+
+.btn-green-moon:hover {
+  background-color: #090908
 }
 
 .btn-dark-blue {
-    background: #7474BF;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #348AC7, #7474BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #4268B2;
     color: #fff;
-    border: 1px solid #090908;
 }
+
+.btn-dark-blue:hover {
+  background-color: #090908
+}
+
+/* SOCIAL MEDIA ICONS */
