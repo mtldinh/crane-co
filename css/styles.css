@@ -50,3 +50,8 @@ body {
 .dropdown-menu{
     margin-top: 0;
 }
+
+/* CONTACT FORM */
+.boxed {
+  border: 2px #ab2418 ;
+}
