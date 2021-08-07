@@ -43,13 +43,14 @@ body {
   background-color: #090908
 }
 
-/* DROPDOWN */
+/* DROPDOWN
 .dropdown:hover .dropdown-menu{
     display: block;
 }
 .dropdown-menu{
     margin-top: 0;
 }
+*/
 
 /* CONTACT FORM */
 .boxed {
