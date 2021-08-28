@@ -1,2 +1,2 @@
 # crane-co
-Website for CRANE Collective (for fun)
+Website for CRANE Collective at NCSU
